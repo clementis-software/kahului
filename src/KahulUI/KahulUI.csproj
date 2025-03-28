@@ -6,8 +6,8 @@
 		<Nullable>enable</Nullable>
 
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-		<Title>ÖBB Ticketing API Client</Title>
-		<Description>.NET Client library for Austrian Railways (ÖBB) API: Search stations, connections, offers</Description>
+		<Title>KahulUI</Title>
+		<Description>ViewModel-based navigation for .NET MAUI</Description>
 		<PackageProjectUrl>https://github.com/clementis-software/oebb-api-dotnet/</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/clementis-software/oebb-api-dotnet/</RepositoryUrl>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
